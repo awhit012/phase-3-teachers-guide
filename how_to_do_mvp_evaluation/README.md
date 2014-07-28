@@ -29,3 +29,8 @@ Hi, this is how I do the evaluation of the MVPs
   1. Any tests beyond mere validations and trivial ActiveRecord testing?
   2. Are critical controller routes tested?
   3. Are they testing implementation over interface?
+
+## MISC
+
+1.  Misuse of Enumerables
+
