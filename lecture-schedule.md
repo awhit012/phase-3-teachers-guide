@@ -11,29 +11,29 @@
 ### 1.Wednesday
   - Morning Lecture: Professional Development (TDD, Commits, Spiking, etc. )
   - Afternoon Lecture: Forms (Reading Documentation)
-  - 530 - 6: Live Code Review
+  - 530 - 6: Meta Learning Review: Basic Rails
 
 ### 1.Thursday
-  - Morning Lecture: Advanced AR / Polymorphics
-  - Afternoon Lecture: AJAX in Rails
-  - 530 - 6: Live Code Review
+  - Morning Lecture: Adding Votes
+  - Afternoon Lecture: Interacting with an API
+  - 530 - 6: Meta Learning Review: Tests in the Wild
 
 ### 1.Friday
-  - Morning Lecture: CSS from wireframes
-  - Afternoon Lecture: Interacting with an API
-  - 530 - 6: Live Code Review
+  - Morning Lecture: AJAX in Rails
+  - Afternoon Lecture: Markdown Widget
+  - 530 - 6: Meta Learning Review: Something about JS
 
 ### 2.Monday
-  - Morning Lecture: JavaSript Modules and closures
+  - Morning Lecture: JavaScript Modules and closures
   - Afternoon Lecture (5pm): Live Coding MinQuery
 
 ### 2.Tuesday
-  - Morning Lecture: TBD Design Lecture
+  - Morning Lecture: importance of design
   - Afternoon Lecture: OOJS Workshop
 
 ### 2.Wednesday
   - Morning Lecture: Design Patterns
-  - Afternoon Lecture: Modularity / Functional
+  - Afternoon Lecture: Flux and React
 
 ### 2.Thursday
   - Pitches and Team Assignments
@@ -51,6 +51,7 @@
   - Consultations
 
 ### 3.Thursday
-  - Morning Lecture: Presentation Strategies.
+  - Morning Lecture: Presentation Strategies
 
 ### 3.Friday
+  - Graduation.
