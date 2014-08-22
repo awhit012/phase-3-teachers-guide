@@ -3,13 +3,12 @@
 ## Final Projects!
 
   - PROCESS
-    - 2 minute pitches. anyone can pitch, any number of times.
+    - 1 minute pitches. anyone can pitch, any number of times.
     - after pitches, the cohort will vote on projects. the top five will get made. at this point, any of the pitchers can choose to back out, and we'll choose one of the runner ups.
     - you'll all then list your top three choices. I'll do some sorting, and you'll have your teams.
     - you can check the repo for more details on the projects themselves, but the basic structure:
-      - MVPs are due Monday
-      - Feature freeze on Wednesday
-      - Presentations on Friday
+      - MVPs are due Monday, with code reviews.
+      - No structure. all schedule determine  i won't be enforcing 9 am.
 
   - I feel like you are all worried more about what makes a good project
     (1) the pocket gophers, who had the best projects ive seen, shared this:
@@ -17,7 +16,7 @@
       - do something small and do it well.
     - you're better than CRUD apps in rails. you're better than social networks, todo apps, and forums. The best projects tried to do something crazy. build a real time game. implement a crazy algorithm. create a live text editor. use hardware. Do something that's right on the edge of your understanding, that you couldn't do right now. you functionally have 8 days to build this thing. between four of you, that's between 350 and 400 development hours. You can do a lot.
   - as for projects themselves.
-    - tools aren't interesting, concepts are interesting. the gophers did some work in firebase, ember, ios, etc. what made their apps cool is that they weren't hacky implementations of
+    - tools aren't interesting, concepts are interesting. the gophers did some work in firebase, ember, ios, etc. what made their apps cool is that they weren't hacky implementations. but solving right problems.
   - So i talked to the banana slugs. I've said it before, but testing and design are crucial.  If you have a solid foundation come Monday that you can refactor and extend with ease, you're in good shape. The worst final projects spend week 3 debugging. Don't. the banana slugs, in particular, had this feedback. because that cohort was so strong at testing, they had a chance to spend their last week implementing crazy features, including a redis integration and one-page app that included 40 routes.
     - the slugs we're also good at Establish good team communication and workflow. Have a KanBan board. Be upfront with your disagreements and concerns. What is your PR protocol? Do you pair? Do you do code review?
 
